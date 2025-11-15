@@ -2558,6 +2558,7 @@ Images:
   - v1.38.1
   - v1.38.3
   - v1.38.6
+  - v1.40.1
   TargetImageName: mirrored-calico-operator
 - SourceImage: rancher/cluster-proportional-autoscaler
   Tags:
